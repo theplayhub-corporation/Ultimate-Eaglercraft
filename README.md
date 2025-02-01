@@ -1,4 +1,4 @@
-# Welcome to Eaglercraft Extras!
+# Welcome to Ultimate Eaglercraft!
 This is a website similar to Eaglercrack (if you know it) where you can find all things related to Eaglercraft!
 There are currently 3 developers, and I am trying to update this as much as possible for it to be the best it can be.
 I recommend looking through some of the features below!
